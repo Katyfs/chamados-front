@@ -29,8 +29,6 @@ O sistema utiliza a API disponibilizada pelo professor.
 
 Documentação: https://api-chamados.jefersonqueiroga.com.br/docs
 
-**Importante:** não compartilhe sua chave da API nem publique o arquivo `.env` no GitHub.
-
 ## Autoria
 
 Katielly Fontes  
