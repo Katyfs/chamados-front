@@ -4,7 +4,7 @@ O Quadro de Reparos é um projeto desenvolvido com React e Vite para o Sistema d
 
 A interface foi inspirada em um quadro de avisos, em que cada chamado aparece como um post-it colorido de acordo com seu status.
 
-Funcionalidades
+## Funcionalidades
 
 - Listar e buscar chamados.
 - Filtrar por status, tipo, local e prioridade.
@@ -14,7 +14,7 @@ Funcionalidades
 - Excluir chamados com confirmação.
 - Mostrar mensagens de carregamento e erro.
 
-Tecnologias
+## Tecnologias
 
 - React
 - Vite
@@ -23,7 +23,7 @@ Tecnologias
 - React Router DOM
 - CSS
 
-API
+## API
 
 O sistema utiliza a API disponibilizada pelo professor.
 
