@@ -1,8 +1,41 @@
-Quadro de Reparos: acompanhe os chamados do campus
+# Quadro de Reparos 🛠️
 
-Neste trabalho, fiz o front-end do Sistema de Chamados de Manutenção do IFRN, usando React com Vite. Com ele, dá para abrir, acompanhar e resolver chamados do campus, e tudo é feito conversando com uma API pronta.
+O Quadro de Reparos é um projeto desenvolvido com React e Vite para o Sistema de Chamados de Manutenção do IFRN. Ele permite abrir, acompanhar e resolver chamados de problemas no campus.
 
-Na tela inicial, os chamados aparecem em uma lista, onde dá para buscar e filtrar por status, tipo, local e prioridade. Ao clicar em um chamado, vejo os detalhes e posso editar, excluir, iniciar o atendimento ou resolver, sempre mostrando só o que faz sentido para o status dele. Também cuidei das mensagens de carregando, lista vazia e erro.
+A interface foi inspirada em um quadro de avisos, em que cada chamado aparece como um post-it colorido de acordo com seu status.
 
-Para o visual, me inspirei em um quadro de avisos: cada chamado é um post-it com a cor do seu status.
+Funcionalidades
+
+- Listar e buscar chamados.
+- Filtrar por status, tipo, local e prioridade.
+- Abrir novos chamados.
+- Visualizar e editar informações.
+- Iniciar atendimentos e resolver problemas.
+- Excluir chamados com confirmação.
+- Mostrar mensagens de carregamento e erro.
+
+Tecnologias
+
+- React
+- Vite
+- JavaScript
+- Axios
+- React Router DOM
+- CSS
+
+API
+
+O sistema utiliza a API disponibilizada pelo professor.
+
+Documentação: https://api-chamados.jefersonqueiroga.com.br/docs
+
+**Importante:** não compartilhe sua chave da API nem publique o arquivo `.env` no GitHub.
+
+## Autoria
+
+Katielly Fontes  
+IFRN — Campus Pau dos Ferros  
+Curso Técnico Integrado em Informática
+
+Projeto desenvolvido para a atividade de Front-end do Sistema de Chamados de Manutenção.
 <img width="1337" height="917" alt="image" src="https://github.com/user-attachments/assets/b7a8c4b0-5b42-433b-b81d-46d5421a5f70" />
