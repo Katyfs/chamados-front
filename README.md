@@ -37,3 +37,7 @@ Curso Técnico Integrado em Informática
 
 Projeto desenvolvido para a atividade de Front-end do Sistema de Chamados de Manutenção.
 <img width="1337" height="917" alt="image" src="https://github.com/user-attachments/assets/b7a8c4b0-5b42-433b-b81d-46d5421a5f70" />
+<img width="1322" height="900" alt="image" src="https://github.com/user-attachments/assets/8ca94103-c1fe-46ac-b837-a4a97d7fddbb" />
+<img width="1282" height="886" alt="image" src="https://github.com/user-attachments/assets/560c87bf-b86b-4089-957b-41c4f1ac90fc" />
+
+
